@@ -45,6 +45,8 @@ The dataset includes historical meal orders and various influencing parameters s
 1️⃣ **Linear Regression** → Gave blunt predictions, with high error margins.  
 2️⃣ **Decision Tree Regressor** – Improved accuracy but still lacked robustness.  
 3️⃣ **Random Forest & XGBoost** – Provided the best results by combining multiple decision trees for a more **accurate** and **robust** prediction.  
+![Uploading image.png…]()
+
 
 ### 📌 Model Evaluation  
 - **Predicted Orders (Green) vs. Actual Orders (Blue)**  
